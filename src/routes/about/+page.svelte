@@ -261,7 +261,7 @@
                   <li>
                     Sometimes, during a Mother run, no keys are available for 
                     B1 and B2, in this case, you are allowed to open the console
-                    to get one, in order to open the door to Downpoor 2. However,
+                    to get one, in order to open the door to Downpour 2. However,
                     if a key was used previously or intentionally not picked up 
                     (such as a key found in the shop but no purchased to save money
                     or buy something else first, or in the case of refusing to trade 
