@@ -259,14 +259,14 @@
                     console usage.
                   </li>
                   <li>
-                    Sometimes, during a Mother run, no keys are available for 
-                    B1 and B2, in this case, you are allowed to open the console
-                    to get one, in order to open the door to Downpour 2. However,
-                    if a key was used previously or intentionally not picked up 
-                    (such as a key found in the shop but no purchased to save money
-                    or buy something else first, or in the case of refusing to trade 
-                    a bomb or a heart for a key, for exemple), then in these cases 
-                    it's not allowed.
+                    Sometimes, during a Mother run, no keys are available in
+                    basement 1 and basement 2. In this case, you are allowed to
+                    open the console to get one using the command of "spawn
+                    5.30.1" in order to open the door to Downpour 2. However,
+                    using the console is not allowed if a key was used
+                    previously or was intentionally not picked up (such as a key
+                    found in the shop but not purchased to save money, or
+                    refusing to trade health for a key).
                   </li>
                 </ul>
               </li>
