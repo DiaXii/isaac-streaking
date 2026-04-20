@@ -228,7 +228,7 @@
                 If that was the case, then you have to continue the run.)
               </li>
               <li>
-                You are not allowed to use the in-game console, with two
+                You are not allowed to use the in-game console, with three
                 exceptions:
 
                 <ul>
@@ -257,6 +257,16 @@
                     their fault. The moderators reserve the right to arbitrarily
                     determine which specific soft-lock situations warrant
                     console usage.
+                  </li>
+                  <li>
+                    Sometimes, during a Mother run, no keys are available for 
+                    B1 and B2, in this case, you are allowed to open the console
+                    to get one, in order to open the door to Downpoor 2. However,
+                    if a key was used previously or intentionally not picked up 
+                    (such as a key found in the shop but no purchased to save money
+                    or buy something else first, or in the case of refusing to trade 
+                    a bomb or a heart for a key, for exemple), then in these cases 
+                    it's not allowed.
                   </li>
                 </ul>
               </li>
